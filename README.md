@@ -1,5 +1,5 @@
 ### Hi, fellows 👋
-My name is Krzysiek I'm a third-year Computer Science student. I deeply like coding and network engineering. I enjoy developing passion and learning new stuff.
+My name is Krzysiek I'm a student of the Krakow University of Technology. I deeply like coding and network engineering. I enjoy developing passion and learning new stuff.
 
 <!--
 **Kraisu0/Kraisu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
